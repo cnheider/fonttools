@@ -5,7 +5,7 @@ brotlicffi==1.0.9.2; platform_python_implementation == "PyPy"
 unicodedata2==13.0.0.post2; python_version < '3.9' and platform_python_implementation != "PyPy"
 scipy==1.7.1; platform_python_implementation != "PyPy"
 munkres==1.1.4; platform_python_implementation == "PyPy"
-zopfli==0.1.8
+zopfli==0.1.9
 fs==2.4.13
 skia-pathops==0.7.1; platform_python_implementation != "PyPy"
 # this is only required to run Tests/cu2qu/{ufo,cli}_test.py
